@@ -34,3 +34,8 @@ AGENTS.md
 .agent
 docs
 docx
+
+# Local env files (secrets/cookies)
+.env
+.env.*
+!.env.example
